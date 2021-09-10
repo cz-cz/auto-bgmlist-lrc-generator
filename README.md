@@ -1,6 +1,6 @@
 # auto-bgmlist-lrc-generator
-using premiere's edl file to generate bgmlist lrc
-in the pr, soud track must be music from ncm(网易云音乐)，and should not be cut
+using premiere's edl file to generate bgmlist lrc //
+in the pr, soud track must be music from ncm(网易云音乐)，and should not be cut//
 following the steps to use this code.
 # step 1 GET edl file from PR
 ![image](https://user-images.githubusercontent.com/67094803/132870901-980afd9b-cbce-4ae8-8022-b8e2512517ac.png)
