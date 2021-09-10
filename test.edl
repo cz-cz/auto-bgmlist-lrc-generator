@@ -1,0 +1,90 @@
+TITLE: test
+FCM: DROP FRAME
+
+001  AX       NONE  C        00:00:00:00 00:03:41:24 00:00:00:00 00:03:41:24
+* FROM CLIP NAME: Halozy - midnight cookie.mp3
+AUD  3    4
+
+002  AX       NONE  C        00:00:00:00 00:04:28:18 00:03:41:24 00:08:10:14
+* FROM CLIP NAME: Halozy,長尾ちえみ - Kiss & Crazy.mp3
+AUD  3    4
+
+003  AX       NONE  C        00:00:00:00 00:04:31:26 00:08:10:14 00:12:42:08
+* FROM CLIP NAME: HIMEHINA - Mr.VIRTUALIZER.mp3
+AUD  3    4
+
+004  AX       NONE  C        00:00:00:00 00:04:23:25 00:12:42:08 00:17:06:05
+* FROM CLIP NAME: HIMEHINA - 琥珀の身体.mp3
+AUD  3    4
+
+005  AX       NONE  C        00:00:00:00 00:03:23:00 00:17:06:05 00:20:29:03
+* FROM CLIP NAME: Milk - 幽霊東京（翻自 Ayase）.mp3
+AUD  3    4
+
+006  AX       NONE  C        00:00:00:00 00:04:13:12 00:20:29:03 00:24:42:15
+* FROM CLIP NAME: HoneyWorks,雨宮天 - 可愛くなりたい.mp3
+AUD  3    4
+
+007  AX       NONE  C        00:00:00:00 00:03:20:07 00:24:42:15 00:28:02:24
+* FROM CLIP NAME: K. Williams - 菊次郎的夏天.mp3
+AUD  3    4
+
+008  AX       NONE  C        00:00:00:00 00:03:43:03 00:28:02:24 00:31:45:25
+* FROM CLIP NAME: KARAKURI - B.A.A.B.mp3
+AUD  3    4
+
+009  AX       NONE  C        00:00:00:00 00:02:59:29 00:31:45:25 00:34:45:26
+* FROM CLIP NAME: Kehle - YELLOW（翻自 神山 羊）.mp3
+AUD  3    4
+
+010  AX       NONE  C        00:00:00:00 00:03:15:21 00:34:45:26 00:38:01:19
+* FROM CLIP NAME: Kirara Magic,熊子 - 太空旅行 (feat. 熊子).mp3
+AUD  3    4
+
+011  AX       NONE  C        00:00:00:00 00:03:14:04 00:38:01:19 00:41:15:21
+* FROM CLIP NAME: Kizuna AI,中田ヤスタカ - AIAIAI.mp3
+AUD  3    4
+
+012  AX       NONE  C        00:00:00:00 00:03:23:13 00:41:15:21 00:44:39:04
+* FROM CLIP NAME: majiko - 独りんぼエンヴィー.mp3
+AUD  3    4
+
+013  AX       NONE  C        00:00:00:00 00:03:52:15 00:44:39:04 00:48:31:21
+* FROM CLIP NAME: MARiA - Girls.mp3
+AUD  3    4
+
+014  AX       NONE  C        00:00:00:00 00:03:39:23 00:48:31:21 00:52:11:14
+* FROM CLIP NAME: 闇音レンリ,ポリスピカデリー - Cynic.mp3
+AUD  3    4
+
+015  AX       NONE  C        00:00:00:00 00:03:41:04 00:52:11:14 00:55:52:18
+* FROM CLIP NAME: 八王子P,ギガP,初音ミク - Gimme×Gimme.mp3
+AUD  3    4
+
+016  AX       NONE  C        00:00:00:00 00:04:34:25 00:55:52:18 01:00:27:13
+* FROM CLIP NAME: Queen of Wand - 花岬.mp3
+AUD  3    4
+
+017  AX       NONE  C        00:00:00:00 00:04:04:06 01:00:27:13 01:04:31:19
+* FROM CLIP NAME: Reol,ギガP - No title.mp3
+AUD  3    4
+
+018  AX       NONE  C        00:00:00:00 00:04:38:15 01:04:31:19 01:09:10:06
+* FROM CLIP NAME: XVAN - I'm OK？.mp3
+AUD  3    4
+
+019  AX       NONE  C        00:00:00:00 00:03:16:21 01:09:10:06 01:12:26:25
+* FROM CLIP NAME: yama - 春を告げる.mp3
+AUD  3    4
+
+020  AX       NONE  C        00:00:00:00 00:03:32:03 01:12:26:25 01:15:58:28
+* FROM CLIP NAME: ナナヲアカリ,ナユタン星人 - メルヘル小惑星.mp3
+AUD  3    4
+
+021  AX       NONE  C        00:00:00:00 00:04:48:16 01:15:58:28 01:20:47:14
+* FROM CLIP NAME: ナノウ,鹿乃 - ハロ／ハワユ.mp3
+AUD  3    4
+
+022  AX       NONE  C        00:00:00:00 00:02:23:01 01:20:47:14 01:23:10:17
+* FROM CLIP NAME: 采风乐坊 - 蓄势 ~GEAR UP~.mp3
+AUD  3    4
